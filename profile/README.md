@@ -6,3 +6,7 @@
 | [loopvisit](https://github.com/NK/v4-main) | ![Saas](https://img.shields.io/badge/Services-SaaS-red) | Tracking commercial visits from first contact to deal closure. | `Architecture` |
 | [loopreps](https://github.com/NK/v4-main) | ![Saas](https://img.shields.io/badge/Services-SaaS-red) | Corporate expense management for travel, meals, and reimbursements. | `Backlog` |
 | [loopcupom](https://github.com/NK/v4-main) | ![Saas](https://img.shields.io/badge/Services-SaaS-red) | Customer management, bonus allocation, and coupon handling | `Backlog` |
+
+<p align="center">
+© V4 Company — Internal Use Only. Unauthorized copying or distribution is strictly prohibited.
+</p>
