@@ -80,15 +80,6 @@ This setup ensures development standards, clean commit history, traceability, an
 
 > **Note:** All PR merges and production deployments will be performed **every Monday** by the Tech Lead. This ensures that all approved code is consolidated and released in an organized manner at the start of the week.
 
-
-## Team
-
-[Nikolas Campos - NK](https://github.com/nikol4ss)  
-**Tech Lead / Software Engineer / FullStack**
-
-[Gustavo Castro](https://github.com/username)  
-**Developer / Trainee / Intern:** 
-
 <br>
 
 <p align="center" style="font-weight: bold">
