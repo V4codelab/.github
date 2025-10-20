@@ -1,4 +1,5 @@
 ## Codebase 
+<br>
 
 | Repo | Service | Scope | Stage |
 |------|---------|-------|-------|
@@ -7,6 +8,14 @@
 | [loopreps](https://github.com/NK/v4-main) | ![Saas](https://img.shields.io/badge/Services-SaaS-red) | Corporate expense management for travel, meals, and reimbursements. | `Backlog` |
 | [loopcupom](https://github.com/NK/v4-main) | ![Saas](https://img.shields.io/badge/Services-SaaS-red) | Customer management, bonus allocation, and coupon handling | `Backlog` |
 
-<p align="center">
+## Branches
+
+> **Branching standards for our environment:** each feature has its own branch. All changes related to the feature — including bug fixes, hotfixes, documentation, releases, or experiments (spikes) — are done within that branch.
+
+**!** This approach ensures development standards and culture, maintains a clean commit history, and facilitates code reviews, testing, and traceability. Therefore, it must be followed rigorously.
+
+
+<p align="center" style="font-weight: bold">
 © V4 Company — Internal Use Only. Unauthorized copying or distribution is strictly prohibited.
 </p>
+
