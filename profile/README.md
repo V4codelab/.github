@@ -40,36 +40,6 @@
 
 This setup ensures development standards, clean commit history, traceability, and proper review workflow.
 
-## Pull Requests
-<br>
-
-> Pull Requests (PRs) are used to review and consolidate all changes from a feature/module branch before merging into `main`.
-<br>
-
-1. **One PR per feature/module branch**  
-   - Open a PR only when the feature or module is complete and tested.
-
-2. **Responsible party**  
-   - Only the **Tech Lead** is authorized to approve and merge PRs into `main`.
-
-3. **Descriptive title and description**  
-   - PR title should be concise and informative: `feat/<feature>: brief description`.  
-   - Description should include:
-     - Purpose of the changes
-     - Main modifications
-     - QA/testing instructions
-     - References or tickets, if any
-
-4. **Review process**  
-   - QA and code review are mandatory before merging.  
-   - Ensure adherence to development standards, coding style, and traceability.
-
-5. **Merge strategy**  
-   - Merge into `main` only after QA and code review approval.  
-   - Prefer **squash merge** to keep history clean.
-
-> **Note:** All PR merges and production deployments will be performed **every Monday** by the Tech Lead. This ensures that all approved code is consolidated and released in an organized manner at the start of the week.
-
 <br>
 
 <p align="center" style="font-weight: bold">
